@@ -41,6 +41,18 @@ Minha base técnica está em constante construção e aprimoramento em Full Stac
 ![Cloud](https://img.shields.io/badge/Cloud-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)
 ![Scrum](https://img.shields.io/badge/Metodologias%20Ágeis-0099CC?style=for-the-badge&logo=jira&logoColor=white)
 
+<br>
+
+## 📊 Minha Atividade no GitHub
+
+Aqui estão algumas estatísticas que refletem minha jornada de aprendizado e desenvolvimento.
+
+[![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=gleysianekelle&show_icons=true&theme=buefy&hide_border=true&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
+
+<br>
+
+[![Linguagens Mais Usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=gleysianekelle&layout=compact&langs_count=6&theme=buefy&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
+
 
 ## 🔗 Conecte-se Comigo!
 
