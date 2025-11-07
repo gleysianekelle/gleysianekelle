@@ -23,16 +23,24 @@ Busco uma oportunidade de **Estágio em TI** ou Desenvolvimento, onde eu possa a
 
 ## 📚 Stack de Tecnologias
 
-Minha base técnica está em constante construção. Atualmente estou focada em:
+Minha base técnica está em constante construção e aprimoramento em Full Stack, IA e Cloud:
 
-| Categoria | Tecnologias (Em Estudo / Uso) |
-| :--- | :--- |
-| **Desenvolvimento Web** | HTML, CSS, JavaScript, **React**, **Node.js** |
-| **Linguagens Base** | **Python**, SQL |
-| **Focos Futuros** | Machine Learning, Cloud Computing, Análise de Dados |
-| **Metodologias** | **Scrum**, **Kanban** |
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 
----
+<br> ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
+
+<br>
+
+**Focos Específicos:**
+![Machine Learning](https://img.shields.io/badge/Machine%20Learning-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![Cloud](https://img.shields.io/badge/Cloud-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)
+![Scrum](https://img.shields.io/badge/Metodologias%20Ágeis-0099CC?style=for-the-badge&logo=jira&logoColor=white)
+
 
 ## 🔗 Conecte-se Comigo!
 
