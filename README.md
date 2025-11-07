@@ -1,4 +1,4 @@
-# Olá, eu sou Gleisyane Kelle! 🌸
+# Olá, eu sou Gleysiane Kelle! 🌸
 
 ### ✨ Futura Desenvolvedora Full Stack | 1º Semestre de ADS | Apaixonada por IA e Cloud
 
