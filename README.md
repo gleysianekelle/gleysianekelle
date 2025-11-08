@@ -7,7 +7,7 @@
 ## ✨ Projeto em Destaque!
 | 💻 Projeto | 🔗 Link | 💖 Detalhes |
 | :--- | :--- | :--- |
-| **Calculadora Rosa Redonda (V3.0)** | [Acesse a Calculadora Aqui!](https://gleygianekelle.github.io/calculadora-rosa-redonda/) | Meu primeiro projeto web! Feito com HTML, CSS (design autêntico!) e JavaScript (com função de porcentagem).
+| **Calculadora Rosa Redonda (V3.0)** | [Acesse a Calculadora Aqui!](https://gleysianekelle.github.io/calculadora-rosa-redonda/) | Meu primeiro projeto web! Feito com HTML, CSS (design autêntico!) e JavaScript (com função de porcentagem).
 
 ---
 
