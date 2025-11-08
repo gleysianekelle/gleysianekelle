@@ -4,6 +4,11 @@
 
 > Onde a lógica encontra a empatia: desenvolvendo tecnologia com uma abordagem centrada no ser humano.💜
 
+## ✨ Projeto em Destaque!
+| 💻 Projeto | 🔗 Link | 💖 Detalhes |
+| :--- | :--- | :--- |
+| **Calculadora Rosa Redonda (V3.0)** | [Acesse a Calculadora Aqui!](https://gleygianekelle.github.io/calculadora-rosa-redonda/) | Meu primeiro projeto web! Feito com HTML, CSS (design autêntico!) e JavaScript (com função de porcentagem).
+
 ---
 
 ## 🎯 Meu Foco e Objetivo
