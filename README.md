@@ -1,81 +1,78 @@
-# 🌸 Olá, eu sou a **Gleysiane Kelle**
-🎨 **Frontend Developer | UI/UX Designer em formação**  
+<!-- Banner opcional -->
+<div align="center">
+  
+# 🌷 Gleysiane Kelle  
+**Frontend Developer | UI/UX Designer em formação | ADS 1º Semestre**
 
-🌿 Criando interfaces bonitas, funcionais e acolhedoras.
-
-Minha jornada na tecnologia começou com aquela curiosidade que cutuca o coração desde pequena.  
+✨ Minha jornada na tecnologia começou com aquela curiosidade que cutuca o coração desde pequena.  
 Hoje estudo **Análise e Desenvolvimento de Sistemas** e estou construindo minha base com calma, foco e propósito.  
 Meu objetivo é unir código e sensibilidade para criar experiências que façam sentido para as pessoas. 💜
 
+</div>
 
 ---
 
-## 💻 **Projetos em Destaque**
+## 🎨 Sobre mim
 
-### 🚀 **Calculadora Adora (V4.0)**  
-🔗 *Acesse aqui!*  
-**https://github.com/gleysianekelle/calculadora-v4.0**
-Versão refinada da minha calculadora semântica. Visual mais elegante, código reorganizado e atenção especial à acessibilidade.
+🌸 Oi! Eu sou a **Gleysiane**, estudante de Análise e Desenvolvimento de Sistemas, apaixonada por criar coisas bonitas, úteis e que façam sentido para as pessoas.  
+Gosto de unir **código + sensibilidade + estética**, construindo soluções que realmente tocam quem usa.
 
-**Evolução nessa versão:**  
-- Estrutura semântica com *main*, *nav* e ARIA  
-- Variáveis de CSS para paleta e consistência  
-- JS refatorado e mais legível  
-- Layout responsivo  
-- Toque minimalista com charme rosa 🌸  
+Atualmente focada em:  
+- **Frontend**  
+- **UI/UX Design**  
+- Criatividade aplicada  
+- Fundamentos sólidos para evoluir com calma e consistência ✨
 
 ---
 
-### 🎀 **Calculadora Rosa Redonda (V3.2)**  
-🔗 *Acesse aqui!* **https://github.com/gleysianekelle/calculadora-rosa-redonda-v3.2**
-Meu primeiro projeto web! Feito com todo carinho e muita vontade de aprender.  
-HTML, CSS e JS com funcionalidades completas e design totalmente autoral.
+## 🛠️ Tecnologias & Ferramentas
 
+<div align="center">
 
----
+![HTML5](https://img.shields.io/badge/HTML5-F26D6D?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-FFB7D5?style=for-the-badge&logo=css3&logoColor=3C3C3C)
+![JavaScript](https://img.shields.io/badge/JavaScript-FFC8DD?style=for-the-badge&logo=javascript&logoColor=3C3C3C)
+![Python](https://img.shields.io/badge/Python-F7D6E0?style=for-the-badge&logo=python&logoColor=3C3C3C)
+![Git](https://img.shields.io/badge/Git-FBE3EC?style=for-the-badge&logo=git&logoColor=3C3C3C)
+![GitHub](https://img.shields.io/badge/GitHub-EBD3F8?style=for-the-badge&logo=github&logoColor=000000)
 
-## 🎨 **Meu Foco Atual**
-
-Estou direcionando meus estudos para áreas que me permitem criar, experimentar e dar forma a ideias:
-
-### **UI/UX Design**  
-- Pesquisa e compreensão do usuário  
-- Arquitetura da informação  
-- Wireframes, protótipos e fluxos  
-- Visual design, cor, tipografia e acessibilidade  
-
-### **Frontend Development**  
-- HTML5  
-- CSS3  
-- JavaScript  
-- React (iniciando estudos)
-
-> Nada de correria. Construindo tudo com cuidado, uma etapa por vez.
-
+</div>
 
 ---
 
-## 📚 **Tecnologias que estou estudando**
-HTML5 • CSS3 • JavaScript  
-Figma • UX/UI  
-React (início)  
-Git e GitHub  
+## 🌸 Projetos em Destaque
 
+> Cada projeto é um passo carinhosamente dado na minha jornada como dev e designer.
 
 ---
 
-## 🎯 **Objetivo do momento**
+### 💖 **Calculadora Adora — V4.0**
+Versão mais madura e elegante da minha calculadora:
 
-No presente, meu foco é **estudar, evoluir e fortalecer minha base**.  
-Quero montar meu portfólio de UI/UX e Frontend com calma, explorando estética, acessibilidade, boas práticas e experiências que realmente toquem o usuário.
+- Interface moderna e limpa  
+- HTML semântico e acessível  
+- CSS com variáveis e responsividade  
+- JavaScript mais organizado e inteligente  
 
-Quando for a hora certa, quero atuar criando interfaces bonitas, intuitivas e funcionais que ajudem pessoas no dia a dia.
-
+🔗 **Acesse o repositório:**  
+👉 https://github.com/gleysianekelle/calculadora-v4.0  
 
 ---
 
-## 📊 **Minha Atividade no GitHub**
-<!-- Estatísticas GitHub (tema rosa) -->
+### 🌷 **Calculadora Rosa Redonda — V3.2**
+Meu primeiro projeto web e cheio de personalidade:
+
+- Estética delicada  
+- HTML, CSS e JS base  
+- Primeiros passos no desenvolvimento frontend  
+
+🔗 **Acesse o repositório:**  
+👉 https://github.com/gleysianekelle/calculadora-rosa-redonda-v3.2  
+
+---
+
+## 📊 Minha Atividade no GitHub
+
 <div align="center">
 
 ![Gley's GitHub Stats](https://github-readme-stats.vercel.app/api?username=gleysianekelle&show_icons=true&theme=radical)
@@ -86,14 +83,21 @@ Quando for a hora certa, quero atuar criando interfaces bonitas, intuitivas e fu
 
 </div>
 
+---
+
+## 🤝 Conecte-se comigo
+
+<div align="center">
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-FF9ACD?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gleysianekelle)  
+[![Email](https://img.shields.io/badge/Email-FFC8DD?style=for-the-badge&logo=gmail&logoColor=white)](mailto:gleysianekelle@gmail.com)
+
+</div>
 
 ---
 
-## 🔗 **Conecte-se comigo**
-🌐 LinkedIn: linkedin.com/in/gleysianekelle  
-📧 Email: gleysianekelle@gmail.com  
+<div align="center">
 
+✨ *"Criar é a forma mais silenciosa de cuidar. E tecnologia também pode ser isso."* ✨
 
----
-
-✨ *“Criar é a forma mais silenciosa de cuidar. E tecnologia também pode ser isso.”*
+</div>
