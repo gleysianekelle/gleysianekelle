@@ -75,11 +75,16 @@ Quando for a hora certa, quero atuar criando interfaces bonitas, intuitivas e fu
 ---
 
 ## 📊 **Minha Atividade no GitHub**
+<!-- Estatísticas GitHub (tema rosa) -->
+<div align="center">
+
 ![Gley's GitHub Stats](https://github-readme-stats.vercel.app/api?username=gleysianekelle&show_icons=true&theme=radical)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gleysianekelle&layout=compact&theme=radical)
 
 ![GitHub Streak](https://streak-stats.demolab.com?user=gleysianekelle&theme=radical)
+
+</div>
 
 
 ---
