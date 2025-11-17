@@ -13,6 +13,7 @@ Meu objetivo é unir código e sensibilidade para criar experiências que façam
 
 ### 🚀 **Calculadora Adora (V4.0)**  
 🔗 *Acesse aqui!*  
+**(https://github.com/gleysianekelle/calculadora-v4.0)**
 Versão refinada da minha calculadora semântica. Visual mais elegante, código reorganizado e atenção especial à acessibilidade.
 
 **Evolução nessa versão:**  
@@ -25,7 +26,7 @@ Versão refinada da minha calculadora semântica. Visual mais elegante, código 
 ---
 
 ### 🎀 **Calculadora Rosa Redonda (V3.2)**  
-🔗 *Acesse aqui!*  
+🔗 *Acesse aqui!* **(https://github.com/gleysianekelle/calculadora-rosa-redonda-v3.2)**
 Meu primeiro projeto web! Feito com todo carinho e muita vontade de aprender.  
 HTML, CSS e JS com funcionalidades completas e design totalmente autoral.
 
@@ -73,7 +74,11 @@ Quando for a hora certa, quero atuar criando interfaces bonitas, intuitivas e fu
 ---
 
 ## 📊 **Minha Atividade no GitHub**
-*(Insira aqui seus cards de estatísticas, se quiser usar)*  
+*(![Gley's GitHub Stats](https://github-readme-stats.vercel.app/api?username=gleysianekelle&show_icons=true&theme=radical)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gleysianekelle&layout=compact&theme=radical)
+
+![GitHub Streak](https://streak-stats.demolab.com?user=gleysianekelle&theme=radical)*
 
 
 ---
