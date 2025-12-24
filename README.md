@@ -78,7 +78,7 @@ Primeira versão do projeto Respira, focada em:
 - pausa digital
 - interface minimalista
 - animação simples de respiração
-Projeto criado como exercício terapêutico e exploratório de UX/UI.
+- **Projeto criado como exercício terapêutico e exploratório de UX/UI.**
 
 🔗 **Acesse o projeto**
 👉 
@@ -86,13 +86,13 @@ https://gleysianekelle.github.io/projeto-respira-vers-o-03.web/
 
 ---
 
-🔹 **NOVA Versão Atualizada 0.4.1 — Case UX**
-- Versão evoluída do projeto, com:
+## **NOVA Versão Atualizada 0.4.1 — Case UX**
+🔹 Versão evoluída do projeto, com:
 - experiência centrada no usuário
 - modo claro e modo escuro com atmosferas distintas
 - animações sensoriais sutis
 - linguagem neutra e acessível
-**Este projeto foi documentado como case UX, demonstrando processo, decisões e evolução.**
+- **Este projeto foi documentado como case UX, demonstrando processo, decisões e evolução.**
   
 🔗 **Acesse o projeto:**
 👉https://gleysianekelle.github.io/projeto-respira-vers-o-04.1web/
