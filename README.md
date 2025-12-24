@@ -71,8 +71,8 @@ Meu primeiro projeto web e cheio de personalidade:
 
 ---
 
-## **🌬️ Respira — Projeto UX/UI**
-🔹 Versão 3.0 — Conceito Inicial
+## **🌬️ Respira — Projeto UX/UI** 
+🔹Versão 3.0 — Conceito Inicial. 
 Primeira versão do projeto Respira, focada em:
 
 - pausa digital
