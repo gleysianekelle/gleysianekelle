@@ -71,6 +71,37 @@ Meu primeiro projeto web e cheio de personalidade:
 
 ---
 
+## ***🌬️ Respira — Projeto UX/UI**
+🔹 Versão 3.0 — Conceito Inicial
+Primeira versão do projeto Respira, focada em:
+
+- pausa digital
+- interface minimalista
+- animação simples de respiração
+Projeto criado como exercício terapêutico e exploratório de UX/UI.
+
+🔗 **Acesse o projeto**
+👉 
+https://gleysianekelle.github.io/projeto-respira-vers-o-03.web/
+
+---
+
+🔹 ***NOVA Versão Atualizada 0.4.1 — Case UX**
+- Versão evoluída do projeto, com:
+- experiência centrada no usuário
+- modo claro e modo escuro com atmosferas distintas
+- animações sensoriais sutis
+- linguagem neutra e acessível
+**Este projeto foi documentado como case UX, demonstrando processo, decisões e evolução.**
+  
+🔗 **Acesse o projeto:**
+👉https://gleysianekelle.github.io/projeto-respira-vers-o-04.1web/
+
+📘 **Case UX completo. Acesse aqui:**
+https://github.com/gleysianekelle/projeto-respira-vers-o-04.1web
+
+---
+
 ## 📊 Minha Atividade no GitHub
 
 <div align="center">
