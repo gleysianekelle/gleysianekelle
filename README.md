@@ -71,7 +71,7 @@ Meu primeiro projeto web e cheio de personalidade:
 
 ---
 
-## ***🌬️ Respira — Projeto UX/UI**
+## **🌬️ Respira — Projeto UX/UI**
 🔹 Versão 3.0 — Conceito Inicial
 Primeira versão do projeto Respira, focada em:
 
@@ -86,7 +86,7 @@ https://gleysianekelle.github.io/projeto-respira-vers-o-03.web/
 
 ---
 
-🔹 ***NOVA Versão Atualizada 0.4.1 — Case UX**
+🔹 **NOVA Versão Atualizada 0.4.1 — Case UX**
 - Versão evoluída do projeto, com:
 - experiência centrada no usuário
 - modo claro e modo escuro com atmosferas distintas
