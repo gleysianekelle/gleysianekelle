@@ -106,6 +106,28 @@ https://gleysianekelle.github.io/projeto-respira-vers-o-04.1web/
 
 ---
 
+🌬️ ### Respira — v0.4.2 (Atual)
+
+**Versão atualizada do projeto, com foco ampliado em acessibilidade visual, conforto prolongado e preferências do usuário.**
+
+Principais melhorias:
+- Ajustes finos de contraste para reduzir fadiga visual
+- Animações ainda mais sutis, priorizando opacidade
+- Layout em grid, mais organizado e respirável
+- Controle manual para reduzir animações
+Respeito à preferência do sistema
+*(prefers-reduced-motion)*
+- Refinamento do modo claro e do modo escuro
+- Interface mais neutra, elegante e inclusiva
+
+🔗 **Repositório:**
+https://github.com/gleysianekelle/projeto-respira-web.04.2
+
+🌐 **Deploy:**
+https://gleysianekelle.github.io/projeto-respira-web.04.2/
+
+---
+
 ## 📊 Atividade no GitHub
 
 <div align="center">
