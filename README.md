@@ -106,7 +106,7 @@ https://gleysianekelle.github.io/projeto-respira-vers-o-04.1web/
 
 ---
 
-🌬️ ### Respira — v0.4.2 (Atual)
+🌬️ **Respira — v0.4.2 (Atual)**
 
 **Versão atualizada do projeto, com foco ampliado em acessibilidade visual, conforto prolongado e preferências do usuário.**
 
