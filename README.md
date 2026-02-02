@@ -1,7 +1,7 @@
 <div align="center">
 
 # 🌷 Gleysiane Kelle  
-**Frontend Developer | UI/UX Designer em formação | Eng.de Software — 1º Semestre**
+**Frontend Developer | UI/UX Designer em formação | Engenharia de Software — 1º Semestre**
 
 Minha jornada na tecnologia começou pela curiosidade e pelo desejo de criar experiências que façam sentido para as pessoas.  
 Atualmente estudo **Engenharia de Software** e construo minha base com foco, consistência e intenção.
