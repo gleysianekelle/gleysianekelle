@@ -1,10 +1,10 @@
 <div align="center">
 
 # 🌷 Gleysiane Kelle  
-**Frontend Developer | UI/UX Designer em formação | ADS — 1º Semestre**
+**Frontend Developer | UI/UX Designer em formação | Eng.de Software — 1º Semestre**
 
 Minha jornada na tecnologia começou pela curiosidade e pelo desejo de criar experiências que façam sentido para as pessoas.  
-Atualmente estudo **Análise e Desenvolvimento de Sistemas** e construo minha base com foco, consistência e intenção.
+Atualmente estudo **Engenharia de Software** e construo minha base com foco, consistência e intenção.
 
 Busco unir **código, usabilidade e sensibilidade visual** para desenvolver interfaces claras, humanas e funcionais.
 
@@ -14,13 +14,13 @@ Busco unir **código, usabilidade e sensibilidade visual** para desenvolver inte
 
 ## ✨ Sobre mim
 
-Sou estudante de **Análise e Desenvolvimento de Sistemas**, com foco em **Frontend e UX/UI**.  
+Sou estudante de **Engenharia de Software**, com foco em **Frontend e UX/UI**.  
 Gosto de criar interfaces simples, acessíveis e visualmente cuidadosas, sempre pensando na experiência de quem utiliza.
 
 Acredito que tecnologia também pode ser calma, clara e acolhedora — sem excessos, mas com propósito.
 
 **Atualmente estudando e praticando:**
-- Desenvolvimento Front-end  
+- Desenvolvimento Front-end & Back-end 
 - UX/UI Design  
 - Lógica de programação  
 - Fundamentos sólidos para evolução contínua  
