@@ -1,89 +1,94 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=30,2,30&height=250&section=header&text=Gleysiane%20Kelle&fontSize=80&fontColor=ffffff&fontAlignY=35&desc=Product%20Engineer%20%7C%20Builder%20%7C%20UX%20Artist&descSize=20&descAlignY=60&animation=twinkling" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=20,2,20&height=300&section=header&text=Gleysiane%20Kelle&fontSize=85&fontColor=ffffff&fontAlignY=35&desc=Software%20Engineer%20%7C%20Product%20Builder%20%7C%20UX%20Designer&descSize=22&descAlignY=60&animation=twinkling" width="100%" />
 </div>
 
 <div align="center">
   <br>
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=FF69B4&center=true&vCenter=true&width=500&lines=%3C+Engineering+Complex+Systems+%2F%3E;%7B+Designing+with+Empathy+%7D;%5B+Building+the+Future+in+Pink+%5D" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Montserrat&weight=600&size=26&pause=1000&color=FF69B4&center=true&vCenter=true&width=600&lines=Projetando+experi%C3%AAncias+fluidas;Engenharia+com+intencionalidade;Onde+o+bit+se+torna+poesia;Building+the+future+in+Pink" alt="Typing SVG" />
   </a>
 </div>
 
-<br>
+---
 
-<table align="center" border="0">
+<table align="center" border="0" cellpadding="0" cellspacing="0">
   <tr>
-    <td width="50%" valign="center">
-      <div align="center">
-        <img src="https://i.pinimg.com/originals/30/44/7d/30447d06634789886364fa626f2f9c34.gif" width="280" style="border-radius: 20px; border: 4px solid #FFB7D5;">
-      </div>
+    <td width="45%" align="center">
+      <img src="https://i.pinimg.com/originals/82/80/54/82805409395f19069d2551a14c688e5d.gif" width="300" style="border-radius: 20px; box-shadow: 0 10px 30px rgba(255, 105, 180, 0.3);">
     </td>
-    <td width="50%" valign="top">
-      <h3> 👩🏽‍💻 profile.json </h3>
-
-```json
-{
-  "name": "Gleysiane Kelle",
-  "vision": "Onde a arquitetura encontra a poesia",
-  "obsessed_with": ["Clean Code", "UX", "HCI"],
-  "currently_building": "Ecossistemas fluidos",
-  "status": "Engineering in progress..."
-}
-</td>
-</tr>
+    <td width="55%" style="padding-left: 30px;">
+      <h2 align="left"> 🌸 O Manifesto da Builder </h2>
+      <p align="left">
+        Como uma futura <strong>Engenheira de Software</strong>, não acredito apenas em código funcional. Acredito em sistemas que respeitam o usuário e arquiteturas que sustentam sonhos.
+      </p>
+      <p align="left">
+        Minha jornada é movida por <strong>design centrado no humano</strong> e a precisão técnica do <strong>desenvolvimento mobile e web</strong>. Atualmente, transformo conceitos complexos em interfaces que respiram.
+      </p>
+      <p align="left">
+        🥤 <strong>Mood:</strong> Criando tecnologia com café, <em>suco de uva geladinho</em> e muita alma.
+      </p>
+    </td>
+  </tr>
 </table>
 
-🛠️ O Arsenal Técnico (Stack)
+---
+
+<h2 align="center"> 🛠️ O Arsenal Técnico </h2>
+<p align="center"><em>"A ferramenta certa para cada camada da solução."</em></p>
+
 <div align="center">
 
-<img src="https://www.google.com/search?q=https://img.shields.io/badge/REACT-20232A%3Fstyle%3Dfor-the-badge%26logo%3Dreact%26logoColor%3D61DAFB"/>
-<img src="https://www.google.com/search?q=https://img.shields.io/badge/JAVASCRIPT-F7DF1E%3Fstyle%3Dfor-the-badge%26logo%3Djavascript%26logoColor%3Dblack"/>
-<img src="https://www.google.com/search?q=https://img.shields.io/badge/HTML5-FFB7D5%3Fstyle%3Dfor-the-badge%26logo%3Dhtml5%26logoColor%3Dwhite"/>
-<img src="https://www.google.com/search?q=https://img.shields.io/badge/CSS3-FF69B4%3Fstyle%3Dfor-the-badge%26logo%3Dcss3%26logoColor%3Dwhite"/>
-<img src="https://www.google.com/search?q=https://img.shields.io/badge/TAILWIND-D45D79%3Fstyle%3Dfor-the-badge%26logo%3Dtailwind-css%26logoColor%3Dwhite"/>
+| **Core Engineering** | **Interface & Experience** | **Ops & Architecture** |
+| :--- | :--- | :--- |
+| ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white) | ![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB) | ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white) |
+| ![Dart](https://img.shields.io/badge/Dart-0175C2?style=flat-square&logo=dart&logoColor=white) | ![Tailwind](https://img.shields.io/badge/Tailwind-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white) | ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white) |
+| ![JS](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black) | ![A11y](https://img.shields.io/badge/Accessibility-005A9C?style=flat-square&logo=a11y&logoColor=white) | ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white) |
 
 </div>
 
-🌸 Projetos & Laboratório
-<table border="0" align="center">
-<tr>
-<td>
-<h3 align="center">🌬️ Respira (v0.4.2)</h3>
-<p align="center">Meu manifesto sobre <strong>Saúde Digital</strong>. Um espaço web projetado para acalmar a mente e respeitar a acessibilidade.</p>
-<div align="center">
-<a href="https://gleysianekelle.github.io/projeto-respira-web.04.2/"><strong>🔗 Visitar Aplicação</strong></a>
-</div>
-</td>
-<td>
-<h3 align="center">💖 Calculadora Adora (v4.0)</h3>
-<p align="center">Lógica pura e manipulação de DOM aplicados a uma interface limpa, responsiva e funcional.</p>
-<div align="center">
-<a href="https://github.com/gleysianekelle/calculadora-v4.0"><strong>🔗 Ver Código</strong></a>
-</div>
-</td>
-</tr>
-</table>
+---
 
-📊 Digital Footprint
-<div align="center">
-<img src="https://www.google.com/search?q=https://github-readme-stats.vercel.app/api%3Fusername%3Dgleysianekelle%26show_icons%3Dtrue%26title_color%3DFF1493%26icon_color%3DFF1493%26text_color%3D777%26bg_color%3DFFF0F5%26hide_border%3Dtrue" height="150" />
-<img src="https://www.google.com/search?q=https://github-readme-stats.vercel.app/api/top-langs/%3Fusername%3Dgleysianekelle%26layout%3Dcompact%26title_color%3DFF1493%26text_color%3D777%26bg_color%3DFFF0F5%26hide_border%3Dtrue" height="150" />
-</div>
+<h2 align="center"> 🚀 Featured Builds </h2>
 
 <div align="center">
-<img src="https://www.google.com/search?q=https://capsule-render.vercel.app/api%3Ftype%3Dwaving%26color%3Dpink%26height%3D100%26section%3Dfooter" width="100%">
+  
+### 🌬️ [Projeto Respira (v0.4.2)](https://gleysianekelle.github.io/projeto-respira-web.04.2/)
+*Design de Produto & Saúde Digital*
+<br>
+Uma aplicação concebida para mitigar a ansiedade digital. Aqui, apliquei princípios de **Motion Design consciente** e **estética minimalista**.
+`HTML5` • `CSS3` • `UX Strategy`
 
+### 📱 [Mobile Auth Concept (Flutter)](https://github.com/gleysianekelle)
+*Engenharia Mobile & UI High-Fidelity*
+<br>
+Desenvolvimento de um fluxo de autenticação fluido, focado em micro-interações e performance. Uma prova de que o rosa e a tecnologia robusta andam juntos.
+`Dart` • `Flutter` • `Material 3`
 
-
-<h3>💌 Vamos criar o futuro?</h3>
-
-<a href="https://www.linkedin.com/in/gleysianekelle">
-<img src="https://www.google.com/search?q=https://img.shields.io/badge/LinkedIn-FF69B4%3Fstyle%3Dfor-the-badge%26logo%3Dlinkedin%26logoColor%3Dwhite" />
-</a>
-
-<a href="mailto:gleysianekelle@gmail.com">
-<img src="https://www.google.com/search?q=https://img.shields.io/badge/Gmail-FFB7D5%3Fstyle%3Dfor-the-badge%26logo%3Dgmail%26logoColor%3Dwhite" />
-</a>
-<p><em>"Construído com ❤️, aquele <strong>suco de uva geladinho</strong> e muito código rosa."</em></p>
 </div>
 
+---
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=gleysianekelle&show_icons=true&theme=rose_pine&hide_border=true&title_color=FF69B4&icon_color=FF69B4&text_color=ccc&bg_color=1a1a1a" height="170" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gleysianekelle&layout=compact&theme=rose_pine&hide_border=true&title_color=FF69B4&text_color=ccc&bg_color=1a1a1a" height="170" />
+</div>
+
+---
+
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=20,2,20&height=120&section=footer" width="100%">
+  
+  <br>
+  
+  ### ✨ Let's architect the future together.
+
+  <a href="https://www.linkedin.com/in/gleysianekelle">
+    <img src="https://img.shields.io/badge/LinkedIn-FF69B4?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="mailto:gleysianekelle@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+
+  <br><br>
+  <p><em>"Construído com ❤️, suco de uva e a alma de uma Stark."</em></p>
+</div>
