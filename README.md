@@ -1,92 +1,106 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=transparent&height=260&text=Gleysiane%20System%20Online&fontSize=46&fontColor=FF5DA2&animation=twinkling" />
+<img src="https://capsule-render.vercel.app/api?type=venom&color=0:FF5DA2,50:FF85C2,100:8A2BE2&height=300&section=header&text=Gleysiane%20Kelle&fontSize=82&fontColor=ffffff&fontAlignY=38&desc=Software%20Engineer%20%7C%20UX%20Designer&descAlignY=65&animation=fadeIn" width="100%" />
 
-<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=22&pause=800&color=FF5DA2&center=true&vCenter=true&width=720&lines=>+System+booting...;>+Loading+design+philosophy...;>+Compiling+code+with+empathy...;>+Rendering+pink-powered+interfaces...;>+Status:+ONLINE" />
+<br>
+
+<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=24&pause=1200&color=FF5DA2&center=true&vCenter=true&width=600&lines=Code+with+intention;Design+with+empathy;Cyberpunk+heart+Soft+UX;Pink+is+my+power" />
 
 </div>
 
 ---
 
 <div align="center">
-  <img src="https://i.pinimg.com/originals/6a/60/7f/6a607f6b8bb4f63b8cfa1f3a4b7a8a0c.gif" width="400" />
+  <img src="https://i.pinimg.com/originals/6a/60/7f/6a607f6b8bb4f63b8cfa1f3a4b7a8a0c.gif" width="360" />
 </div>
 
 ---
 
-```bash
-$ whoami
-Gleysiane Kelle
-Software Engineer | UX Designer
-Cyberpunk soul • Human-centered systems
-$ cat manifesto.md
-I don’t believe in cold software.
+## 🌸 Manifesto
 
-I believe in technology
-that listens,
-interfaces that breathe,
-and systems built with intention.
+Não construo apenas software.  
+Construo **experiências que respeitam pessoas**.
 
-Code is not just logic.
-It’s rhythm.
-It’s care.
-It’s choice.
+Código, pra mim, não é só lógica.  
+É **intenção**, **ritmo** e **cuidado**.
 
-Pink is not aesthetic.
-Pink is power.
+Entre arquitetura limpa, design humano  
+e interfaces que respiram,  
+transformo ideias em produtos vivos.
 
-$ system.logs --live
-[ OK ] UX principles loaded
-[ OK ] Clean architecture initialized
-[ OK ] Frontend modules responsive
-[ OK ] Mobile stack optimized
-[ OK ] Accessibility checks passed
-[ OK ] Emotional design enabled
+🩷 *Pink is not aesthetic. Pink is power.*
 
-$ ls stack/
+---
 
-current_focus: frontend • mobile • ux
-design_mode: human-first
-system_theme: pink_neon
+## 🛠️ Stack & Ferramentas
 
-$ git log --oneline --projects
+<div align="center">
 
-🌬️ Projeto Respira
-[digital product • health & calm]
-commit a92f3c1
-✔ UX minimalista
-✔ Motion design consciente
-✔ Interface que respeita o usuário
-🔗 https://gleysianekelle.github.io/projeto-respira-web.04.2/�
+<img src="https://skillicons.dev/icons?i=flutter,dart,js,react,tailwind,figma,git&theme=dark" />
 
+</div>
 
-📱 Mobile Auth Concept — Flutter
-[mobile • micro-interactions]
-commit f18d0aa
-✔ UI high-fidelity
-✔ Performance first
-✔ Material Design 3
-🔗 https://github.com/gleysianekelle�
+<p align="center">
+<em>A ferramenta certa para cada camada da experiência.</em>
+</p>
 
+---
 
-$ system.stats --render
+## 🚀 Projetos em Destaque
 
+### 🌬️ Projeto Respira  
+<sub>Produto digital focado em saúde emocional</sub>
 
+🔹 UX minimalista  
+🔹 Motion design consciente  
+🔹 Interface pensada para acalmar  
 
+👉 <a href="https://gleysianekelle.github.io/projeto-respira-web.04.2/">Ver projeto</a>
 
-$ connect --social --secure
+---
 
+### 📱 Mobile Auth Concept — Flutter  
+<sub>Engenharia mobile com foco em micro-interações</sub>
 
+🔹 UI high-fidelity  
+🔹 Performance e fluidez  
+🔹 Material Design 3  
 
+👉 <a href="https://github.com/gleysianekelle">Explorar repositório</a>
 
-$ echo "System running smoothly"
+---
 
+## 📊 GitHub em números
 
+<div align="center">
 
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=gleysianekelle&show_icons=true&hide_border=true&title_color=FF5DA2&icon_color=FF5DA2&text_color=C9C9C9&bg_color=0d0d0f" />
 
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gleysianekelle&layout=compact&hide_border=true&title_color=FF5DA2&text_color=C9C9C9&bg_color=0d0d0f" />
 
+</div>
 
-Built with 💗, caffeine, suco de uva and a cyberpunk heart that codes gently. 
+---
 
+## ✨ Vamos construir o futuro juntas?
 
+<div align="center">
 
+<a href="https://www.linkedin.com/in/gleysianekelle">
+  <img src="https://img.shields.io/badge/LinkedIn-FF5DA2?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+
+<a href="mailto:gleysianekelle@gmail.com">
+  <img src="https://img.shields.io/badge/Gmail-FF5DA2?style=for-the-badge&logo=gmail&logoColor=white" />
+</a>
+
+<br><br>
+
+<em>
+Construído com 💖, café, suco de uva  
+e a certeza de que tecnologia também pode ser gentil.
+</em>
+
+</div>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:FF5DA2,50:FF85C2,100:8A2BE2&height=120&section=footer" width="100%" />
