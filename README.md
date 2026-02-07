@@ -1,117 +1,89 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=30,2,30&height=250&section=header&text=Gleysiane%20Kelle&fontSize=80&fontColor=ffffff&fontAlignY=35&desc=Software%20Engineer%20%7C%20Product%20Builder%20%7C%20UX%2FUI&descSize=20&descAlignY=60&animation=fadeIn" width="100%" alt="Header Gleysiane"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=30,2,30&height=250&section=header&text=Gleysiane%20Kelle&fontSize=80&fontColor=ffffff&fontAlignY=35&desc=Product%20Engineer%20%7C%20Builder%20%7C%20UX%20Artist&descSize=20&descAlignY=60&animation=twinkling" width="100%" />
 </div>
 
 <div align="center">
   <br>
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Montserrat&weight=500&size=22&pause=1000&color=D45D79&center=true&vCenter=true&width=600&lines=Construindo+ecossistemas+digitais;Onde+a+arquitetura+encontra+a+poesia;Do+Bit+ao+Pixel+com+intencionalidade" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=FF69B4&center=true&vCenter=true&width=500&lines=%3C+Engineering+Complex+Systems+%2F%3E;%7B+Designing+with+Empathy+%7D;%5B+Building+the+Future+in+Pink+%5D" alt="Typing SVG" />
   </a>
-  <br>
 </div>
-
----
-
-<table align="center" border="0" cellpadding="0" cellspacing="0">
-  <tr>
-    <td width="50%" valign="center">
-      <div align="center">
-        <img src="https://i.pinimg.com/originals/e4/26/70/e426702edf87401f03fa3f7b90795509.gif" width="100%" style="border-radius: 10px; box-shadow: 0px 0px 20px rgba(255, 105, 180, 0.2);">
-        <br>
-        <em>"Designing like I breathe."</em>
-      </div>
-    </td>
-    <td width="50%" valign="top" style="padding-left: 20px;">
-      <h3 align="left">👋🏽 Olá, eu sou a Gleysiane.</h3>
-      <p align="left">
-        Mais do que escrever código, eu projeto <strong>soluções</strong>.
-      </p>
-      <p align="left">
-        Minha abordagem à <strong>Engenharia de Software</strong> é híbrida: trago a sensibilidade artística do desenho e a rigorosidade lógica da arquitetura de sistemas. 
-      </p>
-      <p align="left">
-        🌱 <strong>Minha Missão:</strong> Transformar complexidade técnica em simplicidade humana. Atualmente focada em construir produtos escaláveis, acessíveis e que respeitem o tempo cognitivo do usuário.
-      </p>
-      <p align="left">
-        🔭 <strong>Stack Atual:</strong><br>
-        <code>React</code> <code>JavaScript (ES6+)</code> <code>UX Strategy</code> <code>System Design</code>
-      </p>
-    </td>
-  </tr>
-</table>
 
 <br>
 
-<div align="center">
+<table align="center" border="0">
+  <tr>
+    <td width="50%" valign="center">
+      <div align="center">
+        <img src="https://i.pinimg.com/originals/30/44/7d/30447d06634789886364fa626f2f9c34.gif" width="280" style="border-radius: 20px; border: 4px solid #FFB7D5;">
+      </div>
+    </td>
+    <td width="50%" valign="top">
+      <h3> 👩🏽‍💻 profile.json </h3>
 
-## 🛠️ O Arsenal da Builder
-
-<table style="border-collapse: collapse; border: none;">
-  <tr style="border: none;">
-    <td align="center" style="border: none; padding: 10px;">
-      <strong>🎨 Interface & Experience</strong><br><br>
-      <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white"/>
-      <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
-      <img src="https://img.shields.io/badge/Tailwind-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white"/>
-    </td>
-    <td align="center" style="border: none; padding: 10px;">
-      <strong>⚛️ Core Engineering</strong><br><br>
-      <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
-      <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
-      <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
-    </td>
-    <td align="center" style="border: none; padding: 10px;">
-      <strong>🏗️ Ops & Architecture</strong><br><br>
-      <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
-      <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-      <img src="https://img.shields.io/badge/VS_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white"/>
-    </td>
-  </tr>
+```json
+{
+  "name": "Gleysiane Kelle",
+  "vision": "Onde a arquitetura encontra a poesia",
+  "obsessed_with": ["Clean Code", "UX", "HCI"],
+  "currently_building": "Ecossistemas fluidos",
+  "status": "Engineering in progress..."
+}
+</td>
+</tr>
 </table>
 
+🛠️ O Arsenal Técnico (Stack)
+<div align="center">
+
+<img src="https://www.google.com/search?q=https://img.shields.io/badge/REACT-20232A%3Fstyle%3Dfor-the-badge%26logo%3Dreact%26logoColor%3D61DAFB"/>
+<img src="https://www.google.com/search?q=https://img.shields.io/badge/JAVASCRIPT-F7DF1E%3Fstyle%3Dfor-the-badge%26logo%3Djavascript%26logoColor%3Dblack"/>
+<img src="https://www.google.com/search?q=https://img.shields.io/badge/HTML5-FFB7D5%3Fstyle%3Dfor-the-badge%26logo%3Dhtml5%26logoColor%3Dwhite"/>
+<img src="https://www.google.com/search?q=https://img.shields.io/badge/CSS3-FF69B4%3Fstyle%3Dfor-the-badge%26logo%3Dcss3%26logoColor%3Dwhite"/>
+<img src="https://www.google.com/search?q=https://img.shields.io/badge/TAILWIND-D45D79%3Fstyle%3Dfor-the-badge%26logo%3Dtailwind-css%26logoColor%3Dwhite"/>
+
 </div>
 
----
+🌸 Projetos & Laboratório
+<table border="0" align="center">
+<tr>
+<td>
+<h3 align="center">🌬️ Respira (v0.4.2)</h3>
+<p align="center">Meu manifesto sobre <strong>Saúde Digital</strong>. Um espaço web projetado para acalmar a mente e respeitar a acessibilidade.</p>
+<div align="center">
+<a href="https://gleysianekelle.github.io/projeto-respira-web.04.2/"><strong>🔗 Visitar Aplicação</strong></a>
+</div>
+</td>
+<td>
+<h3 align="center">💖 Calculadora Adora (v4.0)</h3>
+<p align="center">Lógica pura e manipulação de DOM aplicados a uma interface limpa, responsiva e funcional.</p>
+<div align="center">
+<a href="https://github.com/gleysianekelle/calculadora-v4.0"><strong>🔗 Ver Código</strong></a>
+</div>
+</td>
+</tr>
+</table>
 
-## 🚀 Projetos Selecionados
-
-| Projeto | Categoria | Tech Stack | Status |
-| :--- | :--- | :--- | :--- |
-| **🌬️ [Respira (v0.4.2)](https://github.com/gleysianekelle/projeto-respira-web.04.2)** | `UX/UI` `Wellness` | HTML, CSS, A11y | 🟢 **Deploy Ativo** |
-| *Meu case principal. Focado em acessibilidade visual e redução de ansiedade digital.* |
-| **💖 [Calculadora Adora (v4.0)](https://github.com/gleysianekelle/calculadora-v4.0)** | `Frontend Logic` | JavaScript, DOM | 🟡 Manutenção |
-| *Interface limpa, responsiva e lógica estruturada.* |
-
----
+📊 Digital Footprint
+<div align="center">
+<img src="https://www.google.com/search?q=https://github-readme-stats.vercel.app/api%3Fusername%3Dgleysianekelle%26show_icons%3Dtrue%26title_color%3DFF1493%26icon_color%3DFF1493%26text_color%3D777%26bg_color%3DFFF0F5%26hide_border%3Dtrue" height="150" />
+<img src="https://www.google.com/search?q=https://github-readme-stats.vercel.app/api/top-langs/%3Fusername%3Dgleysianekelle%26layout%3Dcompact%26title_color%3DFF1493%26text_color%3D777%26bg_color%3DFFF0F5%26hide_border%3Dtrue" height="150" />
+</div>
 
 <div align="center">
-  <br>
-  
-  <img src="https://github.com/gleysianekelle/gleysianekelle/blob/output/github-contribution-grid-snake.svg" alt="Snake animation" />
-  
-  <br><br>
+<img src="https://www.google.com/search?q=https://capsule-render.vercel.app/api%3Ftype%3Dwaving%26color%3Dpink%26height%3D100%26section%3Dfooter" width="100%">
 
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=gleysianekelle&show_icons=true&theme=buefy&hide_border=true&title_color=D45D79&icon_color=D45D79&text_color=555" />
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gleysianekelle&layout=compact&theme=buefy&hide_border=true&title_color=D45D79&text_color=555" />
-  </a>
+
+
+<h3>💌 Vamos criar o futuro?</h3>
+
+<a href="https://www.linkedin.com/in/gleysianekelle">
+<img src="https://www.google.com/search?q=https://img.shields.io/badge/LinkedIn-FF69B4%3Fstyle%3Dfor-the-badge%26logo%3Dlinkedin%26logoColor%3Dwhite" />
+</a>
+
+<a href="mailto:gleysianekelle@gmail.com">
+<img src="https://www.google.com/search?q=https://img.shields.io/badge/Gmail-FFB7D5%3Fstyle%3Dfor-the-badge%26logo%3Dgmail%26logoColor%3Dwhite" />
+</a>
+<p><em>"Construído com ❤️, aquele <strong>suco de uva geladinho</strong> e muito código rosa."</em></p>
 </div>
 
----
-
-<div align="center">
-  <p>
-    <a href="https://www.linkedin.com/in/gleysianekelle" target="_blank">
-      <img src="https://img.shields.io/badge/Connect_on_LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-    </a>
-    <a href="mailto:gleysianekelle@gmail.com">
-      <img src="https://img.shields.io/badge/Send_me_an_Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
-    </a>
-  </p>
-  
-  <br>
-  
-  <p style="color: #999; font-size: 12px;">
-    💜 <em>"Onde a tecnologia encontra o cuidado."</em>
-  </p>
-</div>
