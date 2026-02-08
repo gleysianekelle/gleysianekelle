@@ -22,7 +22,7 @@
 
 ---
 
-## 🌸 Manifesto
+## 🌘 Manifesto
 
 Não construo apenas software.  
 Construo **experiências que respeitam pessoas**.
