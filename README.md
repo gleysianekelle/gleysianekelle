@@ -52,6 +52,10 @@ Cada linha de código carrega intenção.
 
 ---
 
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,python,cs,figma,git&theme=dark" />
+</div>
+
 ## 🛸 Active Systems
 
 ### 🧠 Study Mirror
@@ -60,12 +64,21 @@ Analytics de produtividade com LocalStorage, Chart.js, Dark Mode e estrutura PWA
 ### 🌍 Sexta-Feira
 Monitor ambiental com estética futurista e visualização de dados.
 
----
+<p align="center">
+  <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" />
+</p>
 
-<div align="center">
+---
 
 ```diff
 + ▣ Mark II System Stable
 + ▣ Neural Engineering Core Active
 + ▣ UX Quantum Layer Operational
 + ▣ Cosmic Interface Online
+
+## 📡 Transmission Channel
+
+🔗 Portfolio  
+https://gleysiane-kelle-portfolio.netlify.app
+
+💜 Onde a engenharia encontra o universo.
