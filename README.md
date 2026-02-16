@@ -1,117 +1,69 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=venom&color=0:FF5DA2,40:FF85C2,100:8A2BE2&height=320&section=header&text=Gleysiane%20Kelle&fontSize=84&fontColor=ffffff&fontAlignY=36&desc=Software%20Engineer%20%7C%20UX%20Designer&descAlignY=62&animation=fadeIn" width="100%" />
-
-<br>
-
-<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=24&pause=1100&color=FF5DA2&center=true&vCenter=true&width=680&lines=Designing+systems+with+soul;Engineering+with+empathy;Cyberpunk+heart+Soft+UX;Pink+is+my+power" />
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0A0A0A,40:0D1B2A,75:1B263B,100:240046&height=280&section=header&text=Gleysiane%20Kelle&fontSize=70&fontColor=F0E6CC&animation=twinkling&fontAlignY=40&desc=Software%20Engineering%20%7C%20Futuristic%20UX&descAlignY=65" width="100%" />
 
 </div>
-
----
-
-<div align="center">
-  <img src="https://i.pinimg.com/originals/6a/60/7f/6a607f6b8bb4f63b8cfa1f3a4b7a8a0c.gif" width="380" />
-</div>
-
----
-
-<div align="center">
-<sub>▣ Interface pessoal carregada com sucesso ▣</sub>
-</div>
-
----
-
-## 🌘 Manifesto
-
-Não construo apenas software.  
-Construo **experiências que respeitam pessoas**.
-
-Código, pra mim, é linguagem sensível.  
-É **intenção**, **ritmo** e **cuidado** em cada decisão.
-
-Entre arquitetura limpa, design humano  
-e interfaces que respiram,  
-transformo ideias em produtos vivos —  
-bonitos por fora, sólidos por dentro.
-
-🩷 *Pink is not aesthetic. Pink is power.*
-
----
-
-## 🛠️ Stack & Ferramentas
+<p align="center">
+  <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" />
+</p>
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=flutter,dart,js,react,tailwind,figma,git&theme=dark" />
+<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=22&duration=3000&pause=1000&color=7C3AED&center=true&vCenter=true&width=750&lines=Initializing+Mark+II+Systems...;Loading+Cosmic+Architecture...;Designing+Scalable+Universes;Engineering+with+Empathy;Where+Science+Meets+Starlight" />
 
 </div>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/System-Mark%20II-7C141D?style=for-the-badge&labelColor=0A0A0A&color=003C5E" />
+</p>
+
+## 🌒 Engineering the Cosmos
+
+Sou estudante de Engenharia de Software movida por ciência, curiosidade e propósito.
+
+Vejo software como um sistema orbital:  
+cada componente precisa de equilíbrio, gravidade e intenção.
+
+Minha paixão por astronomia, ciência ambiental, mecânica e física inspira a forma como estruturo código e arquitetura.
+
+Não busco apenas funcionalidade.  
+Busco coerência estrutural, clareza semântica e experiência consciente.
+
+Engenharia, para mim, é responsabilidade técnica com sensibilidade humana.
 
 <div align="center">
-<em>Camadas bem pensadas. Ferramentas no lugar certo. Experiência em primeiro lugar.</em>
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,python,cs,figma,git&theme=dark" />
 </div>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=gleysianekelle&bg_color=0A0A0A&color=7C3AED&line=003C5E&point=F0E6CC&area=true&hide_border=true" />
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=gleysianekelle&show_icons=true&theme=midnight-purple&hide_border=true&bg_color=0A0A0A&title_color=7C3AED&icon_color=003C5E&text_color=F0E6CC" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gleysianekelle&layout=compact&theme=midnight-purple&hide_border=true&bg_color=0A0A0A&title_color=7C3AED&text_color=F0E6CC" />
+</p>
+
+## 🧩 Active Systems
+
+### 🧠 Study Mirror
+Analytics de produtividade com:
+• Timer dinâmico  
+• Persistência com LocalStorage  
+• Visualização com Chart.js  
+• Dark Mode inteligente  
+• Estrutura PWA  
 
 ---
 
-## 🚀 Projetos em Destaque
+### 🌍 Sexta-Feira
+Monitor ambiental inspirado em engenharia futurista.
+Interface FUI com visualização de dados ambientais.
 
-<div align="center">
-<sub>▣ Builds selecionados ▣</sub>
-</div>
+## 📡 Transmission Channel
 
-### 🌬️ Projeto Respira  
-<sub>Produto digital focado em saúde emocional</sub>
+🔗 Portfolio  
+https://gleysiane-kelle-portfolio.netlify.app/
 
-▫ UX minimalista e acolhedora  
-▫ Motion design consciente  
-▫ Interface criada para desacelerar  
-
-👉 <a href="https://gleysianekelle.github.io/projeto-respira-web.04.2/">Acessar projeto</a>
-
----
-
-### 📱 Mobile Auth Concept — Flutter  
-<sub>Engenharia mobile com foco em micro-interações</sub>
-
-▫ UI high-fidelity  
-▫ Performance fluida  
-▫ Material Design 3 aplicado com cuidado  
-
-👉 <a href="https://github.com/gleysianekelle">Ver repositório</a>
-
----
-
-## 📊 GitHub em números
-
-<div align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=gleysianekelle&show_icons=true&hide_border=true&title_color=FF5DA2&icon_color=FF5DA2&text_color=C9C9C9&bg_color=0d0d0f" />
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gleysianekelle&layout=compact&hide_border=true&title_color=FF5DA2&text_color=C9C9C9&bg_color=0d0d0f" />
-
-</div>
-
----
-
-## ✨ Vamos construir o futuro juntas?
-
-<div align="center">
-
-<a href="https://www.linkedin.com/in/gleysianekelle">
-  <img src="https://img.shields.io/badge/LinkedIn-FF5DA2?style=for-the-badge&logo=linkedin&logoColor=white" />
-</a>
-
-<a href="mailto:gleysianekelle@gmail.com">
-  <img src="https://img.shields.io/badge/Gmail-FF5DA2?style=for-the-badge&logo=gmail&logoColor=white" />
-</a>
-
-<br><br>
-
-<em>
-Construído com 💖, café, suco de uva  
-e a convicção de que tecnologia também pode ser gentil.
-</em>
-
-</div>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:FF5DA2,40:FF85C2,100:8A2BE2&height=120&section=footer" width="100%" />
+💜 Onde a engenharia encontra o universo.
